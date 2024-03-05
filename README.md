@@ -1,5 +1,7 @@
 Demo code for "EMLM-Net: An Extended Multilinear Mixing Model-Inspired Dual-Stream Network for Unsupervised Nonlinear Hyperspectral Unmixing"
 
+If you find this work is useful, please kindly cite:
+
 @ARTICLE{10423877,
   author={Li, Minglei and Yang, Bin and Wang, Bin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
